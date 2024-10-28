@@ -1,0 +1,3 @@
+pyrogram
+tgcrypto
+asyncio==3.4.3
